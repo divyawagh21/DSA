@@ -1,9 +1,9 @@
 {
   "version": "1.0",
   "total_problems": 151,
-  "current_day": 1,
-  "current_streak": 1,
-  "last_solved_date": "2026-09-17",
+  "current_day": 2,
+  "current_streak": 2,
+  "last_solved_date": "2026-09-18",
   "history": [
     {
       "day": 1,
@@ -12,6 +12,14 @@
       "difficulty": "Easy",
       "topic": "Arrays & Hashing",
       "folder": "solutions/Day-001_two-sum"
+    },
+    {
+      "day": 2,
+      "date": "2026-09-18",
+      "title": "Contains Duplicate",
+      "difficulty": "Easy",
+      "topic": "Arrays & Hashing",
+      "folder": "solutions/Day-002_contains-duplicate"
     }
   ],
   "roadmap": [
@@ -32,7 +40,10 @@
       "difficulty": "Easy",
       "topic": "Arrays & Hashing",
       "leetcode_id": 217,
-      "slug": "contains-duplicate"
+      "slug": "contains-duplicate",
+      "completed": true,
+      "date_solved": "2026-09-18",
+      "folder": "solutions/Day-002_contains-duplicate"
     },
     {
       "id": 3,
