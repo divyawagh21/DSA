@@ -1,9 +1,9 @@
 {
   "version": "1.0",
   "total_problems": 151,
-  "current_day": 2,
-  "current_streak": 2,
-  "last_solved_date": "2026-09-18",
+  "current_day": 3,
+  "current_streak": 3,
+  "last_solved_date": "2026-09-19",
   "history": [
     {
       "day": 1,
@@ -20,6 +20,14 @@
       "difficulty": "Easy",
       "topic": "Arrays & Hashing",
       "folder": "solutions/Day-002_contains-duplicate"
+    },
+    {
+      "day": 3,
+      "date": "2026-09-19",
+      "title": "Valid Anagram",
+      "difficulty": "Easy",
+      "topic": "Arrays & Hashing",
+      "folder": "solutions/Day-003_valid-anagram"
     }
   ],
   "roadmap": [
@@ -51,7 +59,10 @@
       "difficulty": "Easy",
       "topic": "Arrays & Hashing",
       "leetcode_id": 242,
-      "slug": "valid-anagram"
+      "slug": "valid-anagram",
+      "completed": true,
+      "date_solved": "2026-09-19",
+      "folder": "solutions/Day-003_valid-anagram"
     },
     {
       "id": 4,
