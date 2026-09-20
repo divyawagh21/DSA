@@ -11,7 +11,7 @@ Every single day, one curated problem is solved from foundational basics to adva
 
 | 🔥 Current Streak | 🏆 Solved / Total | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 | :---: | :---: | :---: | :---: | :---: |
-| **3 Day(s)** | **3 / 151** | **3 / 32** | **0 / 98** | **0 / 21** |
+| **4 Day(s)** | **4 / 151** | **4 / 32** | **0 / 98** | **0 / 21** |
 
 </div>
 
@@ -38,6 +38,7 @@ The problem set follows a curated Beginner-to-Advanced trajectory (Arrays → Tw
 | Day 01 | `2026-09-17` | [#1 Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | Arrays & Hashing | [View Solution](solutions/Day-001_two-sum/) |
 | Day 02 | `2026-09-18` | [#217 Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | 🟢 Easy | Arrays & Hashing | [View Solution](solutions/Day-002_contains-duplicate/) |
 | Day 03 | `2026-09-19` | [#242 Valid Anagram](https://leetcode.com/problems/valid-anagram/) | 🟢 Easy | Arrays & Hashing | [View Solution](solutions/Day-003_valid-anagram/) |
+| Day 04 | `2026-09-20` | [#1929 Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | 🟢 Easy | Arrays & Hashing | [View Solution](solutions/Day-004_concatenation-of-array/) |
 
 ---
 

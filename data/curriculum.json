@@ -1,9 +1,9 @@
 {
   "version": "1.0",
   "total_problems": 151,
-  "current_day": 3,
-  "current_streak": 3,
-  "last_solved_date": "2026-09-19",
+  "current_day": 4,
+  "current_streak": 4,
+  "last_solved_date": "2026-09-20",
   "history": [
     {
       "day": 1,
@@ -28,6 +28,14 @@
       "difficulty": "Easy",
       "topic": "Arrays & Hashing",
       "folder": "solutions/Day-003_valid-anagram"
+    },
+    {
+      "day": 4,
+      "date": "2026-09-20",
+      "title": "Concatenation of Array",
+      "difficulty": "Easy",
+      "topic": "Arrays & Hashing",
+      "folder": "solutions/Day-004_concatenation-of-array"
     }
   ],
   "roadmap": [
@@ -70,7 +78,10 @@
       "difficulty": "Easy",
       "topic": "Arrays & Hashing",
       "leetcode_id": 1929,
-      "slug": "concatenation-of-array"
+      "slug": "concatenation-of-array",
+      "completed": true,
+      "date_solved": "2026-09-20",
+      "folder": "solutions/Day-004_concatenation-of-array"
     },
     {
       "id": 5,
