@@ -11,7 +11,7 @@ Every single day, one curated problem is solved from foundational basics to adva
 
 | 🔥 Current Streak | 🏆 Solved / Total | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 | :---: | :---: | :---: | :---: | :---: |
-| **4 Day(s)** | **4 / 151** | **4 / 32** | **0 / 98** | **0 / 21** |
+| **5 Day(s)** | **5 / 151** | **5 / 32** | **0 / 98** | **0 / 21** |
 
 </div>
 
@@ -39,6 +39,7 @@ The problem set follows a curated Beginner-to-Advanced trajectory (Arrays → Tw
 | Day 02 | `2026-09-18` | [#217 Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | 🟢 Easy | Arrays & Hashing | [View Solution](solutions/Day-002_contains-duplicate/) |
 | Day 03 | `2026-09-19` | [#242 Valid Anagram](https://leetcode.com/problems/valid-anagram/) | 🟢 Easy | Arrays & Hashing | [View Solution](solutions/Day-003_valid-anagram/) |
 | Day 04 | `2026-09-20` | [#1929 Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | 🟢 Easy | Arrays & Hashing | [View Solution](solutions/Day-004_concatenation-of-array/) |
+| Day 05 | `2026-09-21` | [#1299 Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/) | 🟢 Easy | Arrays & Hashing | [View Solution](solutions/Day-005_replace-elements-with-greatest-element-on-right-side/) |
 
 ---
 
