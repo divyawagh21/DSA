@@ -11,7 +11,7 @@ Every single day, one curated problem is solved from foundational basics to adva
 
 | 🔥 Current Streak | 🏆 Solved / Total | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 | :---: | :---: | :---: | :---: | :---: |
-| **5 Day(s)** | **5 / 151** | **5 / 32** | **0 / 98** | **0 / 21** |
+| **1 Day(s)** | **6 / 151** | **6 / 32** | **0 / 98** | **0 / 21** |
 
 </div>
 
@@ -40,6 +40,7 @@ The problem set follows a curated Beginner-to-Advanced trajectory (Arrays → Tw
 | Day 03 | `2026-09-19` | [#242 Valid Anagram](https://leetcode.com/problems/valid-anagram/) | 🟢 Easy | Arrays & Hashing | [View Solution](solutions/Day-003_valid-anagram/) |
 | Day 04 | `2026-09-20` | [#1929 Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | 🟢 Easy | Arrays & Hashing | [View Solution](solutions/Day-004_concatenation-of-array/) |
 | Day 05 | `2026-09-21` | [#1299 Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/) | 🟢 Easy | Arrays & Hashing | [View Solution](solutions/Day-005_replace-elements-with-greatest-element-on-right-side/) |
+| Day 06 | `2026-09-23` | [#392 Is Subsequence](https://leetcode.com/problems/is-subsequence/) | 🟢 Easy | Arrays & Hashing | [View Solution](solutions/Day-006_is-subsequence/) |
 
 ---
 

@@ -1,9 +1,9 @@
 {
   "version": "1.0",
   "total_problems": 151,
-  "current_day": 5,
-  "current_streak": 5,
-  "last_solved_date": "2026-09-21",
+  "current_day": 6,
+  "current_streak": 1,
+  "last_solved_date": "2026-09-23",
   "history": [
     {
       "day": 1,
@@ -44,6 +44,14 @@
       "difficulty": "Easy",
       "topic": "Arrays & Hashing",
       "folder": "solutions/Day-005_replace-elements-with-greatest-element-on-right-side"
+    },
+    {
+      "day": 6,
+      "date": "2026-09-23",
+      "title": "Is Subsequence",
+      "difficulty": "Easy",
+      "topic": "Arrays & Hashing",
+      "folder": "solutions/Day-006_is-subsequence"
     }
   ],
   "roadmap": [
@@ -108,7 +116,10 @@
       "difficulty": "Easy",
       "topic": "Arrays & Hashing",
       "leetcode_id": 392,
-      "slug": "is-subsequence"
+      "slug": "is-subsequence",
+      "completed": true,
+      "date_solved": "2026-09-23",
+      "folder": "solutions/Day-006_is-subsequence"
     },
     {
       "id": 7,
