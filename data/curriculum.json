@@ -1,9 +1,9 @@
 {
   "version": "1.0",
   "total_problems": 151,
-  "current_day": 7,
-  "current_streak": 2,
-  "last_solved_date": "2026-09-24",
+  "current_day": 8,
+  "current_streak": 3,
+  "last_solved_date": "2026-09-25",
   "history": [
     {
       "day": 1,
@@ -60,6 +60,14 @@
       "difficulty": "Easy",
       "topic": "Arrays & Hashing",
       "folder": "solutions/Day-007_length-of-last-word"
+    },
+    {
+      "day": 8,
+      "date": "2026-09-25",
+      "title": "Group Anagrams",
+      "difficulty": "Medium",
+      "topic": "Arrays & Hashing",
+      "folder": "solutions/Day-008_group-anagrams"
     }
   ],
   "roadmap": [
@@ -146,7 +154,10 @@
       "difficulty": "Medium",
       "topic": "Arrays & Hashing",
       "leetcode_id": 49,
-      "slug": "group-anagrams"
+      "slug": "group-anagrams",
+      "completed": true,
+      "date_solved": "2026-09-25",
+      "folder": "solutions/Day-008_group-anagrams"
     },
     {
       "id": 9,
