@@ -11,7 +11,7 @@ Every single day, one curated problem is solved from foundational basics to adva
 
 | 🔥 Current Streak | 🏆 Solved / Total | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 | :---: | :---: | :---: | :---: | :---: |
-| **3 Day(s)** | **8 / 151** | **7 / 32** | **1 / 98** | **0 / 21** |
+| **4 Day(s)** | **9 / 151** | **7 / 32** | **2 / 98** | **0 / 21** |
 
 </div>
 
@@ -43,6 +43,7 @@ The problem set follows a curated Beginner-to-Advanced trajectory (Arrays → Tw
 | Day 06 | `2026-09-23` | [#392 Is Subsequence](https://leetcode.com/problems/is-subsequence/) | 🟢 Easy | Arrays & Hashing | [View Solution](solutions/Day-006_is-subsequence/) |
 | Day 07 | `2026-09-24` | [#58 Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | 🟢 Easy | Arrays & Hashing | [View Solution](solutions/Day-007_length-of-last-word/) |
 | Day 08 | `2026-09-25` | [#49 Group Anagrams](https://leetcode.com/problems/group-anagrams/) | 🟡 Medium | Arrays & Hashing | [View Solution](solutions/Day-008_group-anagrams/) |
+| Day 09 | `2026-09-26` | [#347 Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | 🟡 Medium | Arrays & Hashing | [View Solution](solutions/Day-009_top-k-frequent-elements/) |
 
 ---
 
