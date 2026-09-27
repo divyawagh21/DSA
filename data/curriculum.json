@@ -1,9 +1,9 @@
 {
   "version": "1.0",
   "total_problems": 151,
-  "current_day": 9,
-  "current_streak": 4,
-  "last_solved_date": "2026-09-26",
+  "current_day": 10,
+  "current_streak": 5,
+  "last_solved_date": "2026-09-27",
   "history": [
     {
       "day": 1,
@@ -76,6 +76,14 @@
       "difficulty": "Medium",
       "topic": "Arrays & Hashing",
       "folder": "solutions/Day-009_top-k-frequent-elements"
+    },
+    {
+      "day": 10,
+      "date": "2026-09-27",
+      "title": "Product of Array Except Self",
+      "difficulty": "Medium",
+      "topic": "Arrays & Hashing",
+      "folder": "solutions/Day-010_product-of-array-except-self"
     }
   ],
   "roadmap": [
@@ -184,7 +192,10 @@
       "difficulty": "Medium",
       "topic": "Arrays & Hashing",
       "leetcode_id": 238,
-      "slug": "product-of-array-except-self"
+      "slug": "product-of-array-except-self",
+      "completed": true,
+      "date_solved": "2026-09-27",
+      "folder": "solutions/Day-010_product-of-array-except-self"
     },
     {
       "id": 11,
