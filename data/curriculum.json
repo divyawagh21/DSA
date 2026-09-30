@@ -1,9 +1,9 @@
 {
   "version": "1.0",
   "total_problems": 151,
-  "current_day": 10,
-  "current_streak": 5,
-  "last_solved_date": "2026-09-27",
+  "current_day": 11,
+  "current_streak": 1,
+  "last_solved_date": "2026-09-30",
   "history": [
     {
       "day": 1,
@@ -84,6 +84,14 @@
       "difficulty": "Medium",
       "topic": "Arrays & Hashing",
       "folder": "solutions/Day-010_product-of-array-except-self"
+    },
+    {
+      "day": 11,
+      "date": "2026-09-30",
+      "title": "Valid Sudoku",
+      "difficulty": "Medium",
+      "topic": "Arrays & Hashing",
+      "folder": "solutions/Day-011_valid-sudoku"
     }
   ],
   "roadmap": [
@@ -203,7 +211,10 @@
       "difficulty": "Medium",
       "topic": "Arrays & Hashing",
       "leetcode_id": 36,
-      "slug": "valid-sudoku"
+      "slug": "valid-sudoku",
+      "completed": true,
+      "date_solved": "2026-09-30",
+      "folder": "solutions/Day-011_valid-sudoku"
     },
     {
       "id": 12,
