@@ -1,9 +1,9 @@
 {
   "version": "1.0",
   "total_problems": 151,
-  "current_day": 11,
-  "current_streak": 1,
-  "last_solved_date": "2026-09-30",
+  "current_day": 12,
+  "current_streak": 2,
+  "last_solved_date": "2026-10-01",
   "history": [
     {
       "day": 1,
@@ -92,6 +92,14 @@
       "difficulty": "Medium",
       "topic": "Arrays & Hashing",
       "folder": "solutions/Day-011_valid-sudoku"
+    },
+    {
+      "day": 12,
+      "date": "2026-10-01",
+      "title": "Longest Consecutive Sequence",
+      "difficulty": "Medium",
+      "topic": "Arrays & Hashing",
+      "folder": "solutions/Day-012_longest-consecutive-sequence"
     }
   ],
   "roadmap": [
@@ -222,7 +230,10 @@
       "difficulty": "Medium",
       "topic": "Arrays & Hashing",
       "leetcode_id": 128,
-      "slug": "longest-consecutive-sequence"
+      "slug": "longest-consecutive-sequence",
+      "completed": true,
+      "date_solved": "2026-10-01",
+      "folder": "solutions/Day-012_longest-consecutive-sequence"
     },
     {
       "id": 13,
