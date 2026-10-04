@@ -11,7 +11,7 @@ Every single day, one curated problem is solved from foundational basics to adva
 
 | 🔥 Current Streak | 🏆 Solved / Total | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 | :---: | :---: | :---: | :---: | :---: |
-| **2 Day(s)** | **12 / 151** | **7 / 32** | **5 / 98** | **0 / 21** |
+| **1 Day(s)** | **13 / 151** | **8 / 32** | **5 / 98** | **0 / 21** |
 
 </div>
 
@@ -47,6 +47,7 @@ The problem set follows a curated Beginner-to-Advanced trajectory (Arrays → Tw
 | Day 10 | `2026-09-27` | [#238 Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | 🟡 Medium | Arrays & Hashing | [View Solution](solutions/Day-010_product-of-array-except-self/) |
 | Day 11 | `2026-09-30` | [#36 Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | 🟡 Medium | Arrays & Hashing | [View Solution](solutions/Day-011_valid-sudoku/) |
 | Day 12 | `2026-10-01` | [#128 Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | 🟡 Medium | Arrays & Hashing | [View Solution](solutions/Day-012_longest-consecutive-sequence/) |
+| Day 13 | `2026-10-04` | [#125 Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | 🟢 Easy | Two Pointers | [View Solution](solutions/Day-013_valid-palindrome/) |
 
 ---
 

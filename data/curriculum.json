@@ -1,9 +1,9 @@
 {
   "version": "1.0",
   "total_problems": 151,
-  "current_day": 12,
-  "current_streak": 2,
-  "last_solved_date": "2026-10-01",
+  "current_day": 13,
+  "current_streak": 1,
+  "last_solved_date": "2026-10-04",
   "history": [
     {
       "day": 1,
@@ -100,6 +100,14 @@
       "difficulty": "Medium",
       "topic": "Arrays & Hashing",
       "folder": "solutions/Day-012_longest-consecutive-sequence"
+    },
+    {
+      "day": 13,
+      "date": "2026-10-04",
+      "title": "Valid Palindrome",
+      "difficulty": "Easy",
+      "topic": "Two Pointers",
+      "folder": "solutions/Day-013_valid-palindrome"
     }
   ],
   "roadmap": [
@@ -241,7 +249,10 @@
       "difficulty": "Easy",
       "topic": "Two Pointers",
       "leetcode_id": 125,
-      "slug": "valid-palindrome"
+      "slug": "valid-palindrome",
+      "completed": true,
+      "date_solved": "2026-10-04",
+      "folder": "solutions/Day-013_valid-palindrome"
     },
     {
       "id": 14,
