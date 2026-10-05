@@ -1,9 +1,9 @@
 {
   "version": "1.0",
   "total_problems": 151,
-  "current_day": 13,
-  "current_streak": 1,
-  "last_solved_date": "2026-10-04",
+  "current_day": 14,
+  "current_streak": 2,
+  "last_solved_date": "2026-10-05",
   "history": [
     {
       "day": 1,
@@ -108,6 +108,14 @@
       "difficulty": "Easy",
       "topic": "Two Pointers",
       "folder": "solutions/Day-013_valid-palindrome"
+    },
+    {
+      "day": 14,
+      "date": "2026-10-05",
+      "title": "Two Sum II - Input Array Is Sorted",
+      "difficulty": "Medium",
+      "topic": "Two Pointers",
+      "folder": "solutions/Day-014_two-sum-ii-input-array-is-sorted"
     }
   ],
   "roadmap": [
@@ -260,7 +268,10 @@
       "difficulty": "Medium",
       "topic": "Two Pointers",
       "leetcode_id": 167,
-      "slug": "two-sum-ii-input-array-is-sorted"
+      "slug": "two-sum-ii-input-array-is-sorted",
+      "completed": true,
+      "date_solved": "2026-10-05",
+      "folder": "solutions/Day-014_two-sum-ii-input-array-is-sorted"
     },
     {
       "id": 15,
