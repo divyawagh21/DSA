@@ -11,7 +11,7 @@ Every single day, one curated problem is solved from foundational basics to adva
 
 | 🔥 Current Streak | 🏆 Solved / Total | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 | :---: | :---: | :---: | :---: | :---: |
-| **2 Day(s)** | **14 / 151** | **8 / 32** | **6 / 98** | **0 / 21** |
+| **3 Day(s)** | **15 / 151** | **8 / 32** | **7 / 98** | **0 / 21** |
 
 </div>
 
@@ -49,6 +49,7 @@ The problem set follows a curated Beginner-to-Advanced trajectory (Arrays → Tw
 | Day 12 | `2026-10-01` | [#128 Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | 🟡 Medium | Arrays & Hashing | [View Solution](solutions/Day-012_longest-consecutive-sequence/) |
 | Day 13 | `2026-10-04` | [#125 Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | 🟢 Easy | Two Pointers | [View Solution](solutions/Day-013_valid-palindrome/) |
 | Day 14 | `2026-10-05` | [#167 Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | 🟡 Medium | Two Pointers | [View Solution](solutions/Day-014_two-sum-ii-input-array-is-sorted/) |
+| Day 15 | `2026-10-06` | [#15 3Sum](https://leetcode.com/problems/3sum/) | 🟡 Medium | Two Pointers | [View Solution](solutions/Day-015_3sum/) |
 
 ---
 

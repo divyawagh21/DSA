@@ -1,9 +1,9 @@
 {
   "version": "1.0",
   "total_problems": 151,
-  "current_day": 14,
-  "current_streak": 2,
-  "last_solved_date": "2026-10-05",
+  "current_day": 15,
+  "current_streak": 3,
+  "last_solved_date": "2026-10-06",
   "history": [
     {
       "day": 1,
@@ -116,6 +116,14 @@
       "difficulty": "Medium",
       "topic": "Two Pointers",
       "folder": "solutions/Day-014_two-sum-ii-input-array-is-sorted"
+    },
+    {
+      "day": 15,
+      "date": "2026-10-06",
+      "title": "3Sum",
+      "difficulty": "Medium",
+      "topic": "Two Pointers",
+      "folder": "solutions/Day-015_3sum"
     }
   ],
   "roadmap": [
@@ -279,7 +287,10 @@
       "difficulty": "Medium",
       "topic": "Two Pointers",
       "leetcode_id": 15,
-      "slug": "3sum"
+      "slug": "3sum",
+      "completed": true,
+      "date_solved": "2026-10-06",
+      "folder": "solutions/Day-015_3sum"
     },
     {
       "id": 16,
