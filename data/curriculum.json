@@ -1,9 +1,9 @@
 {
   "version": "1.0",
   "total_problems": 151,
-  "current_day": 15,
-  "current_streak": 3,
-  "last_solved_date": "2026-10-06",
+  "current_day": 16,
+  "current_streak": 4,
+  "last_solved_date": "2026-10-07",
   "history": [
     {
       "day": 1,
@@ -124,6 +124,14 @@
       "difficulty": "Medium",
       "topic": "Two Pointers",
       "folder": "solutions/Day-015_3sum"
+    },
+    {
+      "day": 16,
+      "date": "2026-10-07",
+      "title": "Container With Most Water",
+      "difficulty": "Medium",
+      "topic": "Two Pointers",
+      "folder": "solutions/Day-016_container-with-most-water"
     }
   ],
   "roadmap": [
@@ -298,7 +306,10 @@
       "difficulty": "Medium",
       "topic": "Two Pointers",
       "leetcode_id": 11,
-      "slug": "container-with-most-water"
+      "slug": "container-with-most-water",
+      "completed": true,
+      "date_solved": "2026-10-07",
+      "folder": "solutions/Day-016_container-with-most-water"
     },
     {
       "id": 17,
