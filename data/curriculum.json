@@ -1,9 +1,9 @@
 {
   "version": "1.0",
   "total_problems": 151,
-  "current_day": 16,
-  "current_streak": 4,
-  "last_solved_date": "2026-10-07",
+  "current_day": 17,
+  "current_streak": 5,
+  "last_solved_date": "2026-10-08",
   "history": [
     {
       "day": 1,
@@ -132,6 +132,14 @@
       "difficulty": "Medium",
       "topic": "Two Pointers",
       "folder": "solutions/Day-016_container-with-most-water"
+    },
+    {
+      "day": 17,
+      "date": "2026-10-08",
+      "title": "Trapping Rain Water",
+      "difficulty": "Hard",
+      "topic": "Two Pointers",
+      "folder": "solutions/Day-017_trapping-rain-water"
     }
   ],
   "roadmap": [
@@ -317,7 +325,10 @@
       "difficulty": "Hard",
       "topic": "Two Pointers",
       "leetcode_id": 42,
-      "slug": "trapping-rain-water"
+      "slug": "trapping-rain-water",
+      "completed": true,
+      "date_solved": "2026-10-08",
+      "folder": "solutions/Day-017_trapping-rain-water"
     },
     {
       "id": 18,
