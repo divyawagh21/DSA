@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "total_problems": 151,
-  "current_day": 18,
+  "current_day": 19,
   "current_streak": 6,
   "last_solved_date": "2026-10-09",
   "history": [
@@ -148,6 +148,14 @@
       "difficulty": "Easy",
       "topic": "Sliding Window",
       "folder": "solutions/Day-018_best-time-to-buy-and-sell-stock"
+    },
+    {
+      "day": 19,
+      "date": "2026-10-09",
+      "title": "Longest Substring Without Repeating Characters",
+      "difficulty": "Medium",
+      "topic": "Sliding Window",
+      "folder": "solutions/Day-019_longest-substring-without-repeating-characters"
     }
   ],
   "roadmap": [
@@ -355,7 +363,10 @@
       "difficulty": "Medium",
       "topic": "Sliding Window",
       "leetcode_id": 3,
-      "slug": "longest-substring-without-repeating-characters"
+      "slug": "longest-substring-without-repeating-characters",
+      "completed": true,
+      "date_solved": "2026-10-09",
+      "folder": "solutions/Day-019_longest-substring-without-repeating-characters"
     },
     {
       "id": 20,
