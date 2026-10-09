@@ -11,7 +11,7 @@ Every single day, one curated problem is solved from foundational basics to adva
 
 | 🔥 Current Streak | 🏆 Solved / Total | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 | :---: | :---: | :---: | :---: | :---: |
-| **5 Day(s)** | **17 / 151** | **8 / 32** | **8 / 98** | **1 / 21** |
+| **6 Day(s)** | **18 / 151** | **9 / 32** | **8 / 98** | **1 / 21** |
 
 </div>
 
@@ -52,6 +52,7 @@ The problem set follows a curated Beginner-to-Advanced trajectory (Arrays → Tw
 | Day 15 | `2026-10-06` | [#15 3Sum](https://leetcode.com/problems/3sum/) | 🟡 Medium | Two Pointers | [View Solution](solutions/Day-015_3sum/) |
 | Day 16 | `2026-10-07` | [#11 Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | 🟡 Medium | Two Pointers | [View Solution](solutions/Day-016_container-with-most-water/) |
 | Day 17 | `2026-10-08` | [#42 Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | 🔴 Hard | Two Pointers | [View Solution](solutions/Day-017_trapping-rain-water/) |
+| Day 18 | `2026-10-09` | [#121 Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 🟢 Easy | Sliding Window | [View Solution](solutions/Day-018_best-time-to-buy-and-sell-stock/) |
 
 ---
 

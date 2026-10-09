@@ -1,9 +1,9 @@
 {
   "version": "1.0",
   "total_problems": 151,
-  "current_day": 17,
-  "current_streak": 5,
-  "last_solved_date": "2026-10-08",
+  "current_day": 18,
+  "current_streak": 6,
+  "last_solved_date": "2026-10-09",
   "history": [
     {
       "day": 1,
@@ -140,6 +140,14 @@
       "difficulty": "Hard",
       "topic": "Two Pointers",
       "folder": "solutions/Day-017_trapping-rain-water"
+    },
+    {
+      "day": 18,
+      "date": "2026-10-09",
+      "title": "Best Time to Buy and Sell Stock",
+      "difficulty": "Easy",
+      "topic": "Sliding Window",
+      "folder": "solutions/Day-018_best-time-to-buy-and-sell-stock"
     }
   ],
   "roadmap": [
@@ -336,7 +344,10 @@
       "difficulty": "Easy",
       "topic": "Sliding Window",
       "leetcode_id": 121,
-      "slug": "best-time-to-buy-and-sell-stock"
+      "slug": "best-time-to-buy-and-sell-stock",
+      "completed": true,
+      "date_solved": "2026-10-09",
+      "folder": "solutions/Day-018_best-time-to-buy-and-sell-stock"
     },
     {
       "id": 19,
