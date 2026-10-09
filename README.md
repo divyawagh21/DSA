@@ -11,7 +11,7 @@ Every single day, one curated problem is solved from foundational basics to adva
 
 | 🔥 Current Streak | 🏆 Solved / Total | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 | :---: | :---: | :---: | :---: | :---: |
-| **6 Day(s)** | **19 / 151** | **9 / 32** | **9 / 98** | **1 / 21** |
+| **6 Day(s)** | **20 / 151** | **9 / 32** | **10 / 98** | **1 / 21** |
 
 </div>
 
@@ -54,6 +54,7 @@ The problem set follows a curated Beginner-to-Advanced trajectory (Arrays → Tw
 | Day 17 | `2026-10-08` | [#42 Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | 🔴 Hard | Two Pointers | [View Solution](solutions/Day-017_trapping-rain-water/) |
 | Day 18 | `2026-10-09` | [#121 Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 🟢 Easy | Sliding Window | [View Solution](solutions/Day-018_best-time-to-buy-and-sell-stock/) |
 | Day 19 | `2026-10-09` | [#3 Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 Medium | Sliding Window | [View Solution](solutions/Day-019_longest-substring-without-repeating-characters/) |
+| Day 20 | `2026-10-09` | [#424 Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | 🟡 Medium | Sliding Window | [View Solution](solutions/Day-020_longest-repeating-character-replacement/) |
 
 ---
 

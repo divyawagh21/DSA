@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "total_problems": 151,
-  "current_day": 19,
+  "current_day": 20,
   "current_streak": 6,
   "last_solved_date": "2026-10-09",
   "history": [
@@ -156,6 +156,14 @@
       "difficulty": "Medium",
       "topic": "Sliding Window",
       "folder": "solutions/Day-019_longest-substring-without-repeating-characters"
+    },
+    {
+      "day": 20,
+      "date": "2026-10-09",
+      "title": "Longest Repeating Character Replacement",
+      "difficulty": "Medium",
+      "topic": "Sliding Window",
+      "folder": "solutions/Day-020_longest-repeating-character-replacement"
     }
   ],
   "roadmap": [
@@ -374,7 +382,10 @@
       "difficulty": "Medium",
       "topic": "Sliding Window",
       "leetcode_id": 424,
-      "slug": "longest-repeating-character-replacement"
+      "slug": "longest-repeating-character-replacement",
+      "completed": true,
+      "date_solved": "2026-10-09",
+      "folder": "solutions/Day-020_longest-repeating-character-replacement"
     },
     {
       "id": 21,
