@@ -10,3 +10,8 @@ Whenever the user prompts "Do todays dsa":
 4. Execute `python solutions/Day-XXX_<slug>/solution.py` to verify that all test assertions pass.
 5. Execute `python scripts/dsa_runner.py complete <day_id> "solutions/Day-XXX_<slug>"` to update `data/curriculum.json` and `README.md`.
 6. Execute `python scripts/dsa_runner.py push <day_id> "<title>" "<difficulty>"` to commit and push directly to GitHub.
+
+## Dark Green Dot & Verification Tools
+- When the user requests a **dark green dot**, generate atomic commits (implementation, tests, docs, curriculum, and tooling updates).
+- Execute `python scripts/test_all_solutions.py` to verify regression testing across all completed days.
+- Execute `python scripts/benchmark_sliding_window.py` to profile performance benchmarks across algorithmic patterns.
