@@ -50,8 +50,10 @@ def run_all_tests():
             print(res.stderr)
 
     total_time = time.time() - total_start
+    total_count = passed + failed
+    pass_rate = (passed / total_count * 100) if total_count > 0 else 0
     print(f"==================================================")
-    print(f"🎯 Results: {passed} Passed, {failed} Failed | Total Time: {total_time:.2f}s")
+    print(f"🎯 Results: {passed}/{total_count} Passed ({pass_rate:.1f}%) | Total Time: {total_time:.2f}s")
     print(f"==================================================")
 
     return failed == 0
