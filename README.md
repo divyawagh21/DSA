@@ -11,7 +11,7 @@ Every single day, one curated problem is solved from foundational basics to adva
 
 | 🔥 Current Streak | 🏆 Solved / Total | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 | :---: | :---: | :---: | :---: | :---: |
-| **7 Day(s)** | **21 / 151** | **9 / 32** | **11 / 98** | **1 / 21** |
+| **7 Day(s)** | **22 / 151** | **9 / 32** | **11 / 98** | **2 / 21** |
 
 </div>
 
@@ -56,6 +56,7 @@ The problem set follows a curated Beginner-to-Advanced trajectory (Arrays → Tw
 | Day 19 | `2026-10-09` | [#3 Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 Medium | Sliding Window | [View Solution](solutions/Day-019_longest-substring-without-repeating-characters/) |
 | Day 20 | `2026-10-09` | [#424 Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | 🟡 Medium | Sliding Window | [View Solution](solutions/Day-020_longest-repeating-character-replacement/) |
 | Day 21 | `2026-10-10` | [#567 Permutation in String](https://leetcode.com/problems/permutation-in-string/) | 🟡 Medium | Sliding Window | [View Solution](solutions/Day-021_permutation-in-string/) |
+| Day 22 | `2026-10-10` | [#76 Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | 🔴 Hard | Sliding Window | [View Solution](solutions/Day-022_minimum-window-substring/) |
 
 ---
 
