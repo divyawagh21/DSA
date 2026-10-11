@@ -11,7 +11,7 @@ Every single day, one curated problem is solved from foundational basics to adva
 
 | 🔥 Current Streak | 🏆 Solved / Total | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 | :---: | :---: | :---: | :---: | :---: |
-| **7 Day(s)** | **22 / 151** | **9 / 32** | **11 / 98** | **2 / 21** |
+| **8 Day(s)** | **23 / 151** | **9 / 32** | **11 / 98** | **3 / 21** |
 
 </div>
 
@@ -57,19 +57,7 @@ The problem set follows a curated Beginner-to-Advanced trajectory (Arrays → Tw
 | Day 20 | `2026-10-09` | [#424 Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | 🟡 Medium | Sliding Window | [View Solution](solutions/Day-020_longest-repeating-character-replacement/) |
 | Day 21 | `2026-10-10` | [#567 Permutation in String](https://leetcode.com/problems/permutation-in-string/) | 🟡 Medium | Sliding Window | [View Solution](solutions/Day-021_permutation-in-string/) |
 | Day 22 | `2026-10-10` | [#76 Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | 🔴 Hard | Sliding Window | [View Solution](solutions/Day-022_minimum-window-substring/) |
-
----
-
-## ⚡ Performance Profiling & Verification
-
-Automated test runner and execution profiling across all curriculum solutions:
-- **Test Suite Status:** `22/22` Problems Passing (100% Pass Rate in ~1.2s)
-- **Sliding Window Benchmark Suite:** (`python scripts/benchmark_sliding_window.py`)
-  - Day 18 (20k prices): **~0.8 ms**
-  - Day 19 (18.6k string): **~3.5 ms**
-  - Day 20 (20k string): **~5.0 ms**
-  - Day 21 (13k string): **~4.0 ms**
-  - Day 22 (19.5k string): **~8.0 ms**
+| Day 23 | `2026-10-11` | [#239 Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | 🔴 Hard | Sliding Window | [View Solution](solutions/Day-023_sliding-window-maximum/) |
 
 ---
 
