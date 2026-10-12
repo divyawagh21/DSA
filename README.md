@@ -11,7 +11,7 @@ Every single day, one curated problem is solved from foundational basics to adva
 
 | 🔥 Current Streak | 🏆 Solved / Total | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 | :---: | :---: | :---: | :---: | :---: |
-| **8 Day(s)** | **23 / 151** | **9 / 32** | **11 / 98** | **3 / 21** |
+| **9 Day(s)** | **24 / 151** | **10 / 32** | **11 / 98** | **3 / 21** |
 
 </div>
 
@@ -58,6 +58,7 @@ The problem set follows a curated Beginner-to-Advanced trajectory (Arrays → Tw
 | Day 21 | `2026-10-10` | [#567 Permutation in String](https://leetcode.com/problems/permutation-in-string/) | 🟡 Medium | Sliding Window | [View Solution](solutions/Day-021_permutation-in-string/) |
 | Day 22 | `2026-10-10` | [#76 Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | 🔴 Hard | Sliding Window | [View Solution](solutions/Day-022_minimum-window-substring/) |
 | Day 23 | `2026-10-11` | [#239 Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | 🔴 Hard | Sliding Window | [View Solution](solutions/Day-023_sliding-window-maximum/) |
+| Day 24 | `2026-10-12` | [#20 Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | 🟢 Easy | Stack | [View Solution](solutions/Day-024_valid-parentheses/) |
 
 ---
 
