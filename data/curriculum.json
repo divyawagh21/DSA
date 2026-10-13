@@ -1,9 +1,9 @@
 {
   "version": "1.0",
   "total_problems": 151,
-  "current_day": 24,
-  "current_streak": 9,
-  "last_solved_date": "2026-10-12",
+  "current_day": 25,
+  "current_streak": 10,
+  "last_solved_date": "2026-10-13",
   "history": [
     {
       "day": 1,
@@ -196,6 +196,14 @@
       "difficulty": "Easy",
       "topic": "Stack",
       "folder": "solutions/Day-024_valid-parentheses"
+    },
+    {
+      "day": 25,
+      "date": "2026-10-13",
+      "title": "Min Stack",
+      "difficulty": "Medium",
+      "topic": "Stack",
+      "folder": "solutions/Day-025_min-stack"
     }
   ],
   "roadmap": [
@@ -469,7 +477,10 @@
       "difficulty": "Medium",
       "topic": "Stack",
       "leetcode_id": 155,
-      "slug": "min-stack"
+      "slug": "min-stack",
+      "completed": true,
+      "date_solved": "2026-10-13",
+      "folder": "solutions/Day-025_min-stack"
     },
     {
       "id": 26,
