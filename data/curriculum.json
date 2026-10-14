@@ -1,9 +1,9 @@
 {
   "version": "1.0",
   "total_problems": 151,
-  "current_day": 25,
-  "current_streak": 10,
-  "last_solved_date": "2026-10-13",
+  "current_day": 26,
+  "current_streak": 11,
+  "last_solved_date": "2026-10-14",
   "history": [
     {
       "day": 1,
@@ -204,6 +204,14 @@
       "difficulty": "Medium",
       "topic": "Stack",
       "folder": "solutions/Day-025_min-stack"
+    },
+    {
+      "day": 26,
+      "date": "2026-10-14",
+      "title": "Evaluate Reverse Polish Notation",
+      "difficulty": "Medium",
+      "topic": "Stack",
+      "folder": "solutions/Day-026_evaluate-reverse-polish-notation"
     }
   ],
   "roadmap": [
@@ -488,7 +496,10 @@
       "difficulty": "Medium",
       "topic": "Stack",
       "leetcode_id": 150,
-      "slug": "evaluate-reverse-polish-notation"
+      "slug": "evaluate-reverse-polish-notation",
+      "completed": true,
+      "date_solved": "2026-10-14",
+      "folder": "solutions/Day-026_evaluate-reverse-polish-notation"
     },
     {
       "id": 27,
