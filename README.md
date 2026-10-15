@@ -66,6 +66,25 @@ The problem set follows a curated Beginner-to-Advanced trajectory (Arrays → Tw
 
 ---
 
+## ⚡ Performance Profiling & Verification
+
+Automated test runner and execution profiling across all curriculum solutions:
+- **Test Suite Status:** `28/28` Problems Passing (**100% Pass Rate** in ~1.69s)
+- **Sliding Window Benchmark Suite:** (`python scripts/benchmark_sliding_window.py`)
+  - Day 18 (20k prices): **~0.8 ms**
+  - Day 19 (18.6k string): **~3.5 ms**
+  - Day 20 (20k string): **~5.0 ms**
+  - Day 21 (13k string): **~4.0 ms**
+  - Day 22 (19.5k string): **~8.0 ms**
+- **Stack Benchmark Suite:** (`python scripts/benchmark_stack.py`)
+  - Day 24 (100k brackets): **~7.1 ms**
+  - Day 25 (50k operations): **~9.2 ms**
+  - Day 26 (30k tokens): **~4.8 ms**
+  - Day 27 (n=8, 1430 combs): **~1.6 ms**
+  - Day 28 (100k temperatures): **~18.0 ms**
+
+---
+
 ## 📁 College Assignments
 
 All earlier laboratory assignments are preserved in the [`college-labs/`](college-labs/) directory:
