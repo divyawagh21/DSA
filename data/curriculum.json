@@ -1,9 +1,9 @@
 {
   "version": "1.0",
   "total_problems": 151,
-  "current_day": 26,
-  "current_streak": 11,
-  "last_solved_date": "2026-10-14",
+  "current_day": 27,
+  "current_streak": 12,
+  "last_solved_date": "2026-10-15",
   "history": [
     {
       "day": 1,
@@ -212,6 +212,14 @@
       "difficulty": "Medium",
       "topic": "Stack",
       "folder": "solutions/Day-026_evaluate-reverse-polish-notation"
+    },
+    {
+      "day": 27,
+      "date": "2026-10-15",
+      "title": "Generate Parentheses",
+      "difficulty": "Medium",
+      "topic": "Stack",
+      "folder": "solutions/Day-027_generate-parentheses"
     }
   ],
   "roadmap": [
@@ -507,7 +515,10 @@
       "difficulty": "Medium",
       "topic": "Stack",
       "leetcode_id": 22,
-      "slug": "generate-parentheses"
+      "slug": "generate-parentheses",
+      "completed": true,
+      "date_solved": "2026-10-15",
+      "folder": "solutions/Day-027_generate-parentheses"
     },
     {
       "id": 28,

@@ -11,7 +11,7 @@ Every single day, one curated problem is solved from foundational basics to adva
 
 | 🔥 Current Streak | 🏆 Solved / Total | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 | :---: | :---: | :---: | :---: | :---: |
-| **11 Day(s)** | **26 / 151** | **10 / 32** | **13 / 98** | **3 / 21** |
+| **12 Day(s)** | **27 / 151** | **10 / 32** | **14 / 98** | **3 / 21** |
 
 </div>
 
@@ -61,6 +61,7 @@ The problem set follows a curated Beginner-to-Advanced trajectory (Arrays → Tw
 | Day 24 | `2026-10-12` | [#20 Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | 🟢 Easy | Stack | [View Solution](solutions/Day-024_valid-parentheses/) |
 | Day 25 | `2026-10-13` | [#155 Min Stack](https://leetcode.com/problems/min-stack/) | 🟡 Medium | Stack | [View Solution](solutions/Day-025_min-stack/) |
 | Day 26 | `2026-10-14` | [#150 Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | 🟡 Medium | Stack | [View Solution](solutions/Day-026_evaluate-reverse-polish-notation/) |
+| Day 27 | `2026-10-15` | [#22 Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | 🟡 Medium | Stack | [View Solution](solutions/Day-027_generate-parentheses/) |
 
 ---
 
