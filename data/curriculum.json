@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "total_problems": 151,
-  "current_day": 27,
+  "current_day": 28,
   "current_streak": 12,
   "last_solved_date": "2026-10-15",
   "history": [
@@ -220,6 +220,14 @@
       "difficulty": "Medium",
       "topic": "Stack",
       "folder": "solutions/Day-027_generate-parentheses"
+    },
+    {
+      "day": 28,
+      "date": "2026-10-15",
+      "title": "Daily Temperatures",
+      "difficulty": "Medium",
+      "topic": "Stack",
+      "folder": "solutions/Day-028_daily-temperatures"
     }
   ],
   "roadmap": [
@@ -526,7 +534,10 @@
       "difficulty": "Medium",
       "topic": "Stack",
       "leetcode_id": 739,
-      "slug": "daily-temperatures"
+      "slug": "daily-temperatures",
+      "completed": true,
+      "date_solved": "2026-10-15",
+      "folder": "solutions/Day-028_daily-temperatures"
     },
     {
       "id": 29,
