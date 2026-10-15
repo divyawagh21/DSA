@@ -15,3 +15,4 @@ Whenever the user prompts "Do todays dsa":
 - When the user requests a **dark green dot**, generate atomic commits (implementation, tests, docs, curriculum, and tooling updates).
 - Execute `python scripts/test_all_solutions.py` to verify regression testing across all completed days.
 - Execute `python scripts/benchmark_sliding_window.py` to profile performance benchmarks across algorithmic patterns.
+- Execute `python scripts/benchmark_stack.py` to profile Stack data structure operation throughput.
