@@ -1,9 +1,9 @@
 {
   "version": "1.0",
   "total_problems": 151,
-  "current_day": 28,
-  "current_streak": 12,
-  "last_solved_date": "2026-10-15",
+  "current_day": 29,
+  "current_streak": 13,
+  "last_solved_date": "2026-10-16",
   "history": [
     {
       "day": 1,
@@ -228,6 +228,14 @@
       "difficulty": "Medium",
       "topic": "Stack",
       "folder": "solutions/Day-028_daily-temperatures"
+    },
+    {
+      "day": 29,
+      "date": "2026-10-16",
+      "title": "Car Fleet",
+      "difficulty": "Medium",
+      "topic": "Stack",
+      "folder": "solutions/Day-029_car-fleet"
     }
   ],
   "roadmap": [
@@ -545,7 +553,10 @@
       "difficulty": "Medium",
       "topic": "Stack",
       "leetcode_id": 853,
-      "slug": "car-fleet"
+      "slug": "car-fleet",
+      "completed": true,
+      "date_solved": "2026-10-16",
+      "folder": "solutions/Day-029_car-fleet"
     },
     {
       "id": 30,

@@ -11,7 +11,7 @@ Every single day, one curated problem is solved from foundational basics to adva
 
 | 🔥 Current Streak | 🏆 Solved / Total | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 | :---: | :---: | :---: | :---: | :---: |
-| **12 Day(s)** | **28 / 151** | **10 / 32** | **15 / 98** | **3 / 21** |
+| **13 Day(s)** | **29 / 151** | **10 / 32** | **16 / 98** | **3 / 21** |
 
 </div>
 
@@ -63,25 +63,7 @@ The problem set follows a curated Beginner-to-Advanced trajectory (Arrays → Tw
 | Day 26 | `2026-10-14` | [#150 Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | 🟡 Medium | Stack | [View Solution](solutions/Day-026_evaluate-reverse-polish-notation/) |
 | Day 27 | `2026-10-15` | [#22 Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | 🟡 Medium | Stack | [View Solution](solutions/Day-027_generate-parentheses/) |
 | Day 28 | `2026-10-15` | [#739 Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | 🟡 Medium | Stack | [View Solution](solutions/Day-028_daily-temperatures/) |
-
----
-
-## ⚡ Performance Profiling & Verification
-
-Automated test runner and execution profiling across all curriculum solutions:
-- **Test Suite Status:** `28/28` Problems Passing (**100% Pass Rate** in ~1.69s)
-- **Sliding Window Benchmark Suite:** (`python scripts/benchmark_sliding_window.py`)
-  - Day 18 (20k prices): **~0.8 ms**
-  - Day 19 (18.6k string): **~3.5 ms**
-  - Day 20 (20k string): **~5.0 ms**
-  - Day 21 (13k string): **~4.0 ms**
-  - Day 22 (19.5k string): **~8.0 ms**
-- **Stack Benchmark Suite:** (`python scripts/benchmark_stack.py`)
-  - Day 24 (100k brackets): **~7.1 ms**
-  - Day 25 (50k operations): **~9.2 ms**
-  - Day 26 (30k tokens): **~4.8 ms**
-  - Day 27 (n=8, 1430 combs): **~1.6 ms**
-  - Day 28 (100k temperatures): **~18.0 ms**
+| Day 29 | `2026-10-16` | [#853 Car Fleet](https://leetcode.com/problems/car-fleet/) | 🟡 Medium | Stack | [View Solution](solutions/Day-029_car-fleet/) |
 
 ---
 
