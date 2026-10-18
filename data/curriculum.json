@@ -1,9 +1,9 @@
 {
   "version": "1.0",
   "total_problems": 151,
-  "current_day": 29,
-  "current_streak": 13,
-  "last_solved_date": "2026-10-16",
+  "current_day": 30,
+  "current_streak": 1,
+  "last_solved_date": "2026-10-18",
   "history": [
     {
       "day": 1,
@@ -236,6 +236,14 @@
       "difficulty": "Medium",
       "topic": "Stack",
       "folder": "solutions/Day-029_car-fleet"
+    },
+    {
+      "day": 30,
+      "date": "2026-10-18",
+      "title": "Largest Rectangle in Histogram",
+      "difficulty": "Hard",
+      "topic": "Stack",
+      "folder": "solutions/Day-030_largest-rectangle-in-histogram"
     }
   ],
   "roadmap": [
@@ -564,7 +572,10 @@
       "difficulty": "Hard",
       "topic": "Stack",
       "leetcode_id": 84,
-      "slug": "largest-rectangle-in-histogram"
+      "slug": "largest-rectangle-in-histogram",
+      "completed": true,
+      "date_solved": "2026-10-18",
+      "folder": "solutions/Day-030_largest-rectangle-in-histogram"
     },
     {
       "id": 31,

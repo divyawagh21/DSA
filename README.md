@@ -11,7 +11,7 @@ Every single day, one curated problem is solved from foundational basics to adva
 
 | 🔥 Current Streak | 🏆 Solved / Total | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 | :---: | :---: | :---: | :---: | :---: |
-| **13 Day(s)** | **29 / 151** | **10 / 32** | **16 / 98** | **3 / 21** |
+| **1 Day(s)** | **30 / 151** | **10 / 32** | **16 / 98** | **4 / 21** |
 
 </div>
 
@@ -64,6 +64,7 @@ The problem set follows a curated Beginner-to-Advanced trajectory (Arrays → Tw
 | Day 27 | `2026-10-15` | [#22 Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | 🟡 Medium | Stack | [View Solution](solutions/Day-027_generate-parentheses/) |
 | Day 28 | `2026-10-15` | [#739 Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | 🟡 Medium | Stack | [View Solution](solutions/Day-028_daily-temperatures/) |
 | Day 29 | `2026-10-16` | [#853 Car Fleet](https://leetcode.com/problems/car-fleet/) | 🟡 Medium | Stack | [View Solution](solutions/Day-029_car-fleet/) |
+| Day 30 | `2026-10-18` | [#84 Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | 🔴 Hard | Stack | [View Solution](solutions/Day-030_largest-rectangle-in-histogram/) |
 
 ---
 
