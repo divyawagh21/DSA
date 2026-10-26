@@ -1,9 +1,9 @@
 {
   "version": "1.0",
   "total_problems": 151,
-  "current_day": 30,
+  "current_day": 31,
   "current_streak": 1,
-  "last_solved_date": "2026-10-18",
+  "last_solved_date": "2026-10-26",
   "history": [
     {
       "day": 1,
@@ -244,6 +244,14 @@
       "difficulty": "Hard",
       "topic": "Stack",
       "folder": "solutions/Day-030_largest-rectangle-in-histogram"
+    },
+    {
+      "day": 31,
+      "date": "2026-10-26",
+      "title": "Binary Search",
+      "difficulty": "Easy",
+      "topic": "Binary Search",
+      "folder": "solutions/Day-031_binary-search"
     }
   ],
   "roadmap": [
@@ -583,7 +591,10 @@
       "difficulty": "Easy",
       "topic": "Binary Search",
       "leetcode_id": 704,
-      "slug": "binary-search"
+      "slug": "binary-search",
+      "completed": true,
+      "date_solved": "2026-10-26",
+      "folder": "solutions/Day-031_binary-search"
     },
     {
       "id": 32,
