@@ -1,9 +1,9 @@
 {
   "version": "1.0",
   "total_problems": 151,
-  "current_day": 31,
+  "current_day": 32,
   "current_streak": 1,
-  "last_solved_date": "2026-10-26",
+  "last_solved_date": "2026-10-28",
   "history": [
     {
       "day": 1,
@@ -252,6 +252,14 @@
       "difficulty": "Easy",
       "topic": "Binary Search",
       "folder": "solutions/Day-031_binary-search"
+    },
+    {
+      "day": 32,
+      "date": "2026-10-28",
+      "title": "Search a 2D Matrix",
+      "difficulty": "Medium",
+      "topic": "Binary Search",
+      "folder": "solutions/Day-032_search-a-2d-matrix"
     }
   ],
   "roadmap": [
@@ -602,7 +610,10 @@
       "difficulty": "Medium",
       "topic": "Binary Search",
       "leetcode_id": 74,
-      "slug": "search-a-2d-matrix"
+      "slug": "search-a-2d-matrix",
+      "completed": true,
+      "date_solved": "2026-10-28",
+      "folder": "solutions/Day-032_search-a-2d-matrix"
     },
     {
       "id": 33,

@@ -11,7 +11,7 @@ Every single day, one curated problem is solved from foundational basics to adva
 
 | 🔥 Current Streak | 🏆 Solved / Total | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 | :---: | :---: | :---: | :---: | :---: |
-| **1 Day(s)** | **31 / 151** | **11 / 32** | **16 / 98** | **4 / 21** |
+| **1 Day(s)** | **32 / 151** | **11 / 32** | **17 / 98** | **4 / 21** |
 
 </div>
 
@@ -66,6 +66,7 @@ The problem set follows a curated Beginner-to-Advanced trajectory (Arrays → Tw
 | Day 29 | `2026-10-16` | [#853 Car Fleet](https://leetcode.com/problems/car-fleet/) | 🟡 Medium | Stack | [View Solution](solutions/Day-029_car-fleet/) |
 | Day 30 | `2026-10-18` | [#84 Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | 🔴 Hard | Stack | [View Solution](solutions/Day-030_largest-rectangle-in-histogram/) |
 | Day 31 | `2026-10-26` | [#704 Binary Search](https://leetcode.com/problems/binary-search/) | 🟢 Easy | Binary Search | [View Solution](solutions/Day-031_binary-search/) |
+| Day 32 | `2026-10-28` | [#74 Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | 🟡 Medium | Binary Search | [View Solution](solutions/Day-032_search-a-2d-matrix/) |
 
 ---
 
