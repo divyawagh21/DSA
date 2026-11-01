@@ -11,7 +11,7 @@ Every single day, one curated problem is solved from foundational basics to adva
 
 | 🔥 Current Streak | 🏆 Solved / Total | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 | :---: | :---: | :---: | :---: | :---: |
-| **1 Day(s)** | **33 / 151** | **11 / 32** | **18 / 98** | **4 / 21** |
+| **2 Day(s)** | **34 / 151** | **11 / 32** | **19 / 98** | **4 / 21** |
 
 </div>
 
@@ -68,6 +68,7 @@ The problem set follows a curated Beginner-to-Advanced trajectory (Arrays → Tw
 | Day 31 | `2026-10-26` | [#704 Binary Search](https://leetcode.com/problems/binary-search/) | 🟢 Easy | Binary Search | [View Solution](solutions/Day-031_binary-search/) |
 | Day 32 | `2026-10-28` | [#74 Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | 🟡 Medium | Binary Search | [View Solution](solutions/Day-032_search-a-2d-matrix/) |
 | Day 33 | `2026-10-31` | [#875 Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | 🟡 Medium | Binary Search | [View Solution](solutions/Day-033_koko-eating-bananas/) |
+| Day 34 | `2026-11-01` | [#153 Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | 🟡 Medium | Binary Search | [View Solution](solutions/Day-034_find-minimum-in-rotated-sorted-array/) |
 
 ---
 
